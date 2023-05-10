@@ -9,7 +9,7 @@ The second window will let you choose the folder where the zip file will be made
 # Q&A
 ## How to make it run properly
 *install spleeter using pip*
-# What other libraries does it use?
+## What other libraries does it use?
 *tkinter - filedialog
 <br>
 subprocess
