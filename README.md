@@ -7,6 +7,18 @@ Simply run the python script, the first window will let you choose the audio fil
 The second window will let you choose the folder where the zip file will be made
 
 # Q&A
+## How to make it run properly
+*install spleeter using pip*
+# What other libraries does it use?
+*tkinter - filedialog
+<br>
+subprocess
+<br>
+shutil
+<br>
+os
+<br>
+pathlib - Path*
 ## High CPU Usage
 **IT WILL USE 100% CPU DURING THE PROCESS AND A LOT OF RAM**
 <br>
