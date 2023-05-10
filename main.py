@@ -49,9 +49,3 @@ filesave = filedialog.askdirectory(
 )
 execute()
 archive_make()
-'''
-Fileopen: C:/Users/auras/Pictures/Hurshel - There For Me [Copyright Free].mp3
-Filename: Hurshel - There For Me [Copyright Free].mp3
-Filename, no extension: Hurshel - There For Me [Copyright Free]
-Filesave: C:/Users/auras/Desktop
-'''
